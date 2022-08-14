@@ -7,13 +7,13 @@ activity </i>
 
 📄 Data Analyst in Charity Retail & E-commerce
 
-🔭 I’m currently working on ML with tidymodels in R
+🔭 I’m currently working on causal models with bnlearn in R
 
 🌱 I’m currently learning Python & SQL
 
 💬 Ask me about data viz!
 
-:camera: I also occasionally do photography, hence the username!
+:camera: I also do photography, hence the username!
 
 ## Recent Projects
 
