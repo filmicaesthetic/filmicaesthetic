@@ -1,6 +1,6 @@
 
 ![“Scatter plot showing learning and work activity in different areas of
-data science.”](https://pbs.twimg.com/profile_banners/1200167485137440770/1660396168/1500x500) <i> recent work & learning
+data science.”](https://pbs.twimg.com/profile_banners/1200167485137440770/1661530923/1500x500) <i> recent work & learning
 activity </i>
 
 ## Hello! 👋 I’m Dan
