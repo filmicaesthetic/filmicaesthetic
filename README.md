@@ -8,7 +8,7 @@
 
 💬 Ask me about data viz!
 
-:camera: I also do photography, hence the username!
+:camera: I also dabble in photography, hence the username!
 
 ## Recent Projects
 
