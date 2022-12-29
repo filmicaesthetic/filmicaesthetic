@@ -1,3 +1,10 @@
+<style>
+#skill {
+  border-radius: 20%;
+  background-color: #a1a1a1;
+}
+</style>
+
 ## Hello! 👋 I’m Dan
 
 - 📊 Data analyst in charity retail & e-commerce
@@ -15,6 +22,8 @@
 ---
 
 ✅ R ✅ SQL ✅ Power BI ✅ Shiny ✅ Git ↗️ Python ↗️ HTML ↗️ CSS ↗️ Microsoft Azure ⏯ Javascript
+
+<span class="skill">✅ R</span><span class="skill">✅ SQL</span><span class="skill">✅ Power BI</span>
 
 ## Recent Projects
 
