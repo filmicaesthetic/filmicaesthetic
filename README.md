@@ -8,8 +8,6 @@
 
 ## Skills
 
----
-
 ✅ Work | ↗️ Play | ⏯ Soon
 
 ---
