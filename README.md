@@ -1,14 +1,20 @@
 ## Hello! 👋 I’m Dan
 
-📄 Data Analyst in Charity Retail & E-commerce
+- 📊 Data analyst in charity retail & e-commerce
+- 🤓 Data science and creative data visualisation with R
+- 👩🏼‍🎓 Self-taught data professional, learning fast on the job
+- 📱 Curious about front-end web development as a tool to tell better data stories
+- 📷 Big photography nerd, hence the username!
 
-🔭 I’m currently working on causal models with bnlearn in R
+## Skills
 
-🌱 I’m currently learning Python & SQL
+---
 
-💬 Ask me about data viz!
+✅ Work | ↗️ Play | ⏯ Soon
 
-:camera: I also dabble in photography, hence the username!
+---
+
+✅ R ✅ SQL ✅ Power BI ✅ Shiny ✅ Git ↗️ Python ↗️ HTML ↗️ CSS ↗️ Microsoft Azure ⏯ Javascript
 
 ## Recent Projects
 
