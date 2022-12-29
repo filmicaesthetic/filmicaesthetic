@@ -14,7 +14,7 @@
 
 ---
 
-### ✅ R ✅ SQL ✅ Power BI ✅ Shiny ✅ Git ↗️ Python ↗️ HTML ↗️ CSS ↗️ Microsoft Azure ⏯ Javascript
+### ✅ R ✅ SQL ✅ Power BI ✅ Shiny ✅ Git ↗️ Python ↗️ HTML ↗️ CSS <div>↗️ Microsoft Azure</div> ⏯ Javascript
 
 ## Recent Projects
 
