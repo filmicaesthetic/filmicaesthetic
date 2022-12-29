@@ -16,7 +16,7 @@
 
 ✅ R ✅ SQL ✅ Power BI ✅ Shiny ✅ Git ↗️ Python ↗️ HTML ↗️ CSS ↗️ Microsoft Azure ⏯ Javascript
 
-==✅ R== <span class="skill">✅ SQL</span><span class="skill">✅ Power BI</span>
+<mark style="background-color: #FFFF00">✅ R</mark>  <span class="skill">✅ SQL</span><span class="skill">✅ Power BI</span>
 
 ## Recent Projects
 
