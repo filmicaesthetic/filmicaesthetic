@@ -8,7 +8,7 @@
 
 ## Skills
 
-✅ Work | ↗️ Play | ⏯ Soon
+`✅ Work` | `↗️ Play` | `⏯ Soon`
 
 ---
 
