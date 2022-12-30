@@ -64,4 +64,7 @@
     <img src="https://github.com/filmicaesthetic/filmicaesthetic.github.io/blob/main/images/thumbs/all_blacks.jpg?raw=true" width = 31%>
   </a>
 
-<a rel="me" href="https://fosstodon.org/@filmicaesthetic"></a>
+## Connect
+
+<a rel="me" href="https://fosstodon.org/@filmicaesthetic">Mastodon</a>
+<a href="https://www.twitter.com/filmicaesthetic">Twitter</a>
