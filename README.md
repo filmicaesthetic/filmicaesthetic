@@ -63,3 +63,5 @@
   <a href="https://github.com/filmicaesthetic/Tidy-Tuesday-2022/">
     <img src="https://github.com/filmicaesthetic/filmicaesthetic.github.io/blob/main/images/thumbs/all_blacks.jpg?raw=true" width = 31%>
   </a>
+
+<a rel="me" href="https://fosstodon.org/@filmicaesthetic"></a>
