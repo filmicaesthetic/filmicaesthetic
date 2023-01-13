@@ -10,7 +10,7 @@
 
 #### `✅ Work` | `↗️ Play` | `⏯ Soon`
 
-### `✅ R` `✅ SQL` `✅ Power BI` `✅ Shiny` `✅ RMarkdown` `✅ Git` `↗️ Python` `↗️ HTML` `↗️ CSS` `↗️ Azure` `⏯ Javascript`
+### `✅ R` `✅ SQL` `✅ Power BI` `✅ Shiny` `✅ R Markdown` `✅ Git` `↗️ Python` `↗️ HTML` `↗️ CSS` `↗️ Azure` `⏯ Javascript`
 
 ## Recent Projects
 
