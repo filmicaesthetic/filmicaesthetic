@@ -1,8 +1,8 @@
 ## Hello! 👋 I’m Dan
 
-- 📊 Data analyst in charity retail & e-commerce
+- 📊 Data scientist in charity retail & e-commerce
 - 🤓 Data science and creative data visualisation with R
-- 👩🏼‍🎓 Self-taught data professional, learning fast on the job
+- 👩🏼‍🎓 Self-taught data professional of 7 years, forever learning
 - 📱 Curious about front-end web development as a tool to tell better data stories
 - 📷 Big photography nerd, hence the username!
 
