@@ -66,5 +66,4 @@
 
 ## Connect
 
-- <a rel="me" href="https://fosstodon.org/@filmicaesthetic">Mastodon</a>
-- <a href="https://www.twitter.com/filmicaesthetic">Twitter</a>
+- <a href="https://bsky.app/profile/filmicaesthetic.bsky.social">BlueSky</a>
